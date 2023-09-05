@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-
+# this is mohit Bhai
 def count_word_occurrences(url, search_word):
     # Send an HTTP GET request to the URL
     response = requests.get(url)
